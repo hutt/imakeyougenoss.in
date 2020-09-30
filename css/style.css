@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+/** imakeyougenoss.in by Jannis Hutt
+*	Copyright (c) 2020
+*	https://github.com/hutt/imakeyougenoss.in 
+**/
+
+html, body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	margin: 0;
+    text-rendering: optimizeLegibility;
+    -moz-font-feature-settings: "liga" 1, "kern" 1;
+    font-feature-settings: "liga" 1, "kern" 1;
+    -webkit-font-smoothing: antialiased;
+}
